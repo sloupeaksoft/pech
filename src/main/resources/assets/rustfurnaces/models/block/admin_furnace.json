@@ -1,0 +1,12 @@
+{
+  "parent": "minerustaddons:custom/furnace",
+  "textures": {
+    "0": "minerustaddons:blocks/furnacedowntex",
+    "1": "rustfurnaces:blocks/admin_furnaceface",
+    "2": "minerustaddons:blocks/furnacetop",
+    "3": "minerustaddons:blocks/furnaceup",
+    "all": "minerustaddons:blocks/furnaceface",
+    "particle": "minerustaddons:blocks/furnaceface",
+    "missing": "minerustaddons:blocks/furnacetop"
+  }
+}

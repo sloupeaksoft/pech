@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "rustfurnaces",
+    "name": "Rust Furnaces (MineRust addon)",
+    "description": "Rust-style furnaces for MineRust with an ADMIN furnace to configure smelting for the whole server.",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "authorList": [
+      "netrfloox"
+    ],
+    "requiredMods": [
+      "minerustaddons"
+    ],
+    "dependencies": [
+      "minerustaddons"
+    ],
+    "useDependencyInformation": true
+  }
+]
